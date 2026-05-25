@@ -1,0 +1,102 @@
+gender,age,course,year_of_study,cgpa,depression,anxiety,panic_attack,treatment
+Female,18,Engineering,year 1,3.00 - 3.49,Yes,No,Yes,No
+Male,21,Human Resources,year 2,3.00 - 3.49,No,Yes,No,No
+Male,19,Pharmacy,Year 1,3.00 - 3.49,Yes,Yes,Yes,No
+Female,22,Law,year 3,3.00 - 3.49,Yes,No,No,No
+Male,23,Mathemathics,year 4,3.00 - 3.49,No,No,No,No
+Male,19,Engineering,Year 2,3.50 - 4.00,No,No,Yes,No
+Female,23,Human Resources,year 2,3.50 - 4.00 ,Yes,No,Yes,No
+Female,18,Pharmacy,year 1,3.50 - 4.00,No,Yes,No,No
+Female,19,Human Resources,Year 2,2.50 - 2.99,No,No,No,No
+Male,18,Pharmacy,year 1,3.50 - 4.00,No,Yes,Yes,No
+Female,20,Psychology,year 1,3.50 - 4.00,No,No,No,No
+Female,24,Engineering,Year 3,3.50 - 4.00,Yes,No,No,No
+Female,18,Pharmacy,year 1,3.00 - 3.49,Yes,No,No,No
+Male,19,Engineering,year 1,3.00 - 3.49,No,No,No,No
+Female,18,Pharmacy,Year 2,3.50 - 4.00,No,Yes,No,No
+Male,24,Pharmacy,Year 3,3.50 - 4.00,No,No,No,No
+Female,24,Accounting ,year 3,3.00 - 3.49,No,No,No,No
+Female,24,Marine science,year 4,3.00 - 3.49,Yes,Yes,Yes,No
+Female,20,Marine science,Year 2,3.50 - 4.00,No,Yes,No,No
+Female,18,Marine science,year 2,3.50 - 4.00,Yes,Yes,Yes,No
+Female,19,Engineering,year 1,3.00 - 3.49,No,No,Yes,No
+Female,18,Psychology,Year 2,3.00 - 3.49,No,No,No,No
+Female,24,Psychology,year 1,3.50 - 4.00,No,No,No,No
+Female,24,Engineering,year 1,3.00 - 3.49,No,No,No,No
+Female,23,Finance Studies,Year 3,3.50 - 4.00,Yes,Yes,Yes,No
+Female,18,Finance Studies,year 1,3.50 - 4.00,No,No,No,No
+Female,19,Engineering,year 1,3.50 - 4.00,No,No,No,No
+Male,18,Engineering,Year 2,3.00 - 3.49,Yes,Yes,No,No
+Female,24,Finance Studies,Year 3,3.50 - 4.00,Yes,Yes,Yes,Yes
+Female,24,Business Administration,year 4,3.50 - 4.00,No,No,No,No
+Female,23,Business Administration,Year 2,3.00 - 3.49,No,No,No,No
+Male,18,Business Administration,year 2,3.00 - 3.49,No,No,No,No
+Male,19,Business Administration,year 1,3.50 - 4.00,No,No,Yes,No
+Male,18,Business Administration,Year 2,3.50 - 4.00,Yes,Yes,No,Yes
+Female,19,Business Administration,year 1,3.00 - 3.49,Yes,Yes,Yes,No
+Female,18,Engineering,year 1,2.00 - 2.49,No,No,No,No
+Female,18,Law,Year 3,3.00 - 3.49,Yes,Yes,No,No
+Female,19,Law,year 1,2.50 - 2.99,Yes,Yes,Yes,No
+Female,18,Law,year 1,3.50 - 4.00,No,No,No,No
+Female,24,Engineering,Year 2,2.50 - 2.99,Yes,No,Yes,Yes
+Female,24,Pharmacy,Year 3,3.00 - 3.49,No,Yes,No,No
+Female,22,Engineering,year 4,3.50 - 4.00,No,No,No,No
+Female,20,Pharmacy,year 2,3.00 - 3.49,Yes,No,No,No
+Male,19,Pharmacy,year 1,0 - 1.99,No,No,No,No
+Male,23,Pharmacy,year 2,3.50 - 4.00,No,No,Yes,No
+Male,18,Pharmacy,year 1,3.50 - 4.00,No,Yes,Yes,No
+Female,19,Engineering,year 1,3.50 - 4.00,No,Yes,No,No
+Female,18,Engineering,year 4,3.50 - 4.00,No,No,No,No
+Male,24,Biomedical science,year 2,3.00 - 3.49,Yes,No,No,No
+Female,24,Biomedical science,year 3,3.50 - 4.00,No,No,Yes,No
+Female,23,Biomedical science,year 1,2.50 - 2.99,Yes,No,Yes,Yes
+Female,18,Biomedical science,year 2,3.50 - 4.00,No,Yes,No,No
+Female,19,Biomedical science,year 3,3.00 - 3.49,No,No,No,No
+Female,20,IT,year 3,3.00 - 3.49,Yes,Yes,Yes,No
+Female,19,IT,year 1,3.50 - 4.00,Yes,No,Yes,Yes
+Male,21,IT,year 1,3.00 - 3.49,No,No,No,No
+Male,23,IT,Year 3,3.50 - 4.00,No,No,No,No
+Female,20,IT,Year 3,3.00 - 3.49,Yes,Yes,No,No
+Female,18,IT,year 1,3.50 - 4.00,No,No,No,No
+Female,23,IT,year 1,3.00 - 3.49,No,No,No,No
+Female,18,IT,Year 3,3.00 - 3.49,No,No,Yes,No
+Female,19,Psychology,year 1,3.50 - 4.00,No,No,No,No
+Female,18,Psychology,Year 1,3.50 - 4.00,No,No,Yes,No
+Female,24,Engineering,year 1,3.50 - 4.00,No,No,Yes,No
+Female,24,Engineering,year 1,3.50 - 4.00,No,No,No,No
+Female,23,Engineering,year 1,3.50 - 4.00,Yes,Yes,No,No
+Female,18,Engineering,Year 3,3.00 - 3.49,No,Yes,No,No
+Male,19,Communication ,Year 3,3.00 - 3.49,Yes,No,Yes,No
+Female,18,Mathemathics,year 1,3.50 - 4.00,Yes,No,No,No
+Female,24,Mathemathics,year 4,3.00 - 3.49,No,Yes,No,No
+Female,24,Mathemathics,year 1,3.00 - 3.49,No,No,No,No
+Female,18,Mathemathics,Year 3,3.50 - 4.00,No,No,Yes,No
+Female,19,Biomedical science,Year 3,3.00 - 3.49,Yes,No,No,No
+Male,18,Biomedical science,year 1,0 - 1.99,No,No,No,No
+Male,24,Biomedical science,Year 3,3.50 - 4.00,No,Yes,No,No
+Female,24,Biomedical science,year 1,3.50 - 4.00,No,Yes,Yes,No
+Female,23,Engineering,year 1,3.00 - 3.49,Yes,No,No,No
+Female,18,Communication ,Year 2,3.00 - 3.49,No,No,Yes,No
+Female,19,Communication ,Year 3,0 - 1.99,No,No,No,No
+Female,18,Engineering,year 4,3.50 - 4.00,No,No,No,No
+Female,24,Communication ,Year 2,3.50 - 4.00,Yes,Yes,Yes,No
+Female,24,Nursing,year 2,3.50 - 4.00,No,No,No,No
+Female,19,Engineering,year 1,3.00 - 3.49,Yes,Yes,No,No
+Female,19,Radiography,Year 2,3.00 - 3.49,No,No,No,No
+Male,23,Radiography,year 1,3.00 - 3.49,No,No,No,No
+Female,18,psychology,year 1,3.50 - 4.00,Yes,Yes,No,Yes
+Female,19,Marine science,Year 3,3.00 - 3.49,No,No,No,No
+Female,18,psychology,year 1,3.50 - 4.00,Yes,Yes,Yes,No
+Male,24,Nursing ,year 1,3.00 - 3.49,No,Yes,No,No
+Male,24,Engineering,Year 2,2.00 - 2.49,No,No,Yes,No
+Female,23,Engineering,Year 3,3.50 - 4.00,No,No,Yes,No
+Male,18,Engineering,Year 2,3.00 - 3.49,No,Yes,No,No
+Female,19,Engineering,year 2,3.00 - 3.49,Yes,No,No,No
+Female,18,Nursing ,year 1,3.00 - 3.49,Yes,No,No,No
+Female,24,Nursing ,Year 3,0 - 1.99,No,No,Yes,No
+Female,18,Nursing ,year 1,3.50 - 4.00,No,No,No,No
+Female,21,Nursing ,year 1,3.50 - 4.00,No,Yes,No,No
+Male,18,Engineering,Year 2,3.00 - 3.49,Yes,Yes,No,No
+Female,19,Nursing ,Year 3,3.50 - 4.00,Yes,No,Yes,No
+Female,23,Nursing ,year 4,3.50 - 4.00,No,No,No,No
+Male,20,Biomedical science,Year 2,3.00 - 3.49,No,No,No,No
